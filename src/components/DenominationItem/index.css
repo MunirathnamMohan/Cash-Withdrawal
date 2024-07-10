@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.withdraw-con {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.btn {
+  height: 20px;
+  width: 60px;
+  margin: 2px;
+}
